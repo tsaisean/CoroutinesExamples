@@ -2,6 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db97875-19ca-46bc-bba9-eb59adada152" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/hetbrains.KotlinCoroutinesExamples.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_children_of_coroutineKt$main$1$request$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_children_of_coroutineKt$main$1$request$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_children_of_coroutineKt$main$1$request$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_children_of_coroutineKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_children_of_coroutineKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_debuggingKt$main$1$a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_debuggingKt$main$1$b$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_debuggingKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_debuggingKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_isActiveKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_isActiveKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample3_isActiveKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample4_tryKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample4_tryKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample4_tryKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample5_withcontextKt$main$1$job$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample5_withcontextKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample5_withcontextKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample5_withcontextKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample7_scope_builderKt$doSomethingUsefulOne$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample7_scope_builderKt$doSomethingUsefulTwo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample7_scope_builderKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Sample7_scope_builderKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample1_launchKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample1_launchKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample2_threadKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample2_threadKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample3_runBlockingKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample3_runBlockingKt$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample3_runBlockingKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample4_runBlockingOnMainKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample4_runBlockingOnMainKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample4_runBlockingOnMainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample5_joinKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample5_joinKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample5_joinKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample6_structured_concurrencyKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample6_structured_concurrencyKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample6_structured_concurrencyKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample8_suspend_modifierKt$doWorld$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample8_suspend_modifierKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample8_suspend_modifierKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample8_suspend_modifierKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample9_light_weightKt$main$1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample9_light_weightKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/basics/Sample9_light_weightKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample1_cacnelKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample1_cacnelKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample1_cacnelKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample2_cancelAndJoinKt$main$1$job$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample2_cancelAndJoinKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample2_cancelAndJoinKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample6_timeoutKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample6_timeoutKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample6_timeoutKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample7_timeoutOrNullKt$main$1$result$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample7_timeoutOrNullKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/cancellation_timeouts/Sample7_timeoutOrNullKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt$doSomethingUsefulOne4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt$doSomethingUsefulTwo4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt$main$time$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt$somethingUsefulOneAsync$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt$somethingUsefulTwoAsync$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Async_styleKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/CancellationKt$failedConcurrentSum$2$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/CancellationKt$failedConcurrentSum$2$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/CancellationKt$failedConcurrentSum$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/CancellationKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/CancellationKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt$doSomethingUsefulOne$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt$doSomethingUsefulTwo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt$main$1$time$1$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt$main$1$time$1$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/ConcurrentKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt$doSomethingUsefulFour$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt$doSomethingUsefulThree$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt$main$1$time$1$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt$main$1$time$1$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Lazily_asyncKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$concurrentSum$2$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$concurrentSum$2$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$concurrentSum$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$doSomethingUsefulOne5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$doSomethingUsefulTwo5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/composing_suspending/Structured_concurrencyKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/LogKt$main$1$a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/LogKt$main$1$b$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/LogKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/LogKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt$main$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt$main$1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt$main$1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample1_dispatchersKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample2_unconfinedKt$main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample2_unconfinedKt$main$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample2_unconfinedKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample2_unconfinedKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample4_parental_responsibilitiesKt$main$1$request$1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample4_parental_responsibilitiesKt$main$1$request$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample4_parental_responsibilitiesKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample4_parental_responsibilitiesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample5_naming_coroutinesKt$main$1$v1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample5_naming_coroutinesKt$main$1$v2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample5_naming_coroutinesKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/coroutine_context_and_dispatchers/Sample5_naming_coroutinesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/high_order_functions/SampleKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/high_order_functions/SampleKt$main$joinedToString$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/high_order_functions/SampleKt$main$product$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/high_order_functions/SampleKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/sequential_/Sequential_Kt$doSomethingUsefulOne$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/sequential_/Sequential_Kt$doSomethingUsefulTwo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/sequential_/Sequential_Kt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/sequential_/Sequential_Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/utils/UtilsKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample1_dispatchers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample2_unconfined.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample3_children_of_coroutine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample3_debugging.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample4_parental_responsibilities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample5_naming_coroutines.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/utils/utils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/sample10_22.kt" beforeDir="false" />
@@ -44,7 +174,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/sample1_launch.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#16#60#0" expanded="true" />
               </folding>
@@ -65,7 +195,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample2_cancelAndJoin.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,7 +204,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample5_withcontext.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -92,7 +222,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample6_timeout.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -100,8 +230,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/composing_suspending/async_style.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="219">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#30#80#0" expanded="true" />
               </folding>
@@ -110,10 +240,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Deferred.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            <state relative-caret-position="268">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -122,19 +261,7 @@
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Builders.common.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/sample7_scope_builder.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+              <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -190,7 +317,6 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/sequential_.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/concurrent.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/lazily_async.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/async_style.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/structured_concurrency.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/cancellation.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample1_dispatchers.kt" />
@@ -203,6 +329,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/log.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/coroutine_context_and_dispatchers/sample3_debugging.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/sample1_launch.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/composing_suspending/async_style.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -242,54 +370,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="cancellation_timeouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="composing_suspending" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="coroutine_context_and_dispatchers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="high_order_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoroutinesExamples" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KotlinCoroutinesExamples" type="b2602c69:ProjectViewProjectNode" />
@@ -477,13 +557,20 @@
       <option name="presentableId" value="Default" />
       <updated>1544666382028</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add samples for dispatchers.">
+      <created>1545945446498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545945446499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.18864469" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.18864469" />
       <window_info id="Structure" order="1" sideWeight="0.5017422" side_tool="true" visible="true" weight="0.18864469" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,7 +579,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32865497" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32865497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,6 +599,10 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add samples for dispatchers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add samples for dispatchers." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -562,7 +653,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Job.kt" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/CoroutineScope.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample3_isActive.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -834,7 +924,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/sample7_scope_builder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -844,7 +934,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/sample1_launch.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#16#60#0" expanded="true" />
           </folding>
@@ -861,14 +951,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample2_cancelAndJoin.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample5_withcontext.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -882,31 +972,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cancellation_timeouts/sample6_timeout.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Builders.common.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+          <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Deferred.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/composing_suspending/async_style.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="219">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#30#80#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.1/16382dce10af5c4159654272de71e8c0efe854c7/kotlinx-coroutines-core-common-1.0.1-sources.jar!/Deferred.kt">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
