@@ -1,6 +1,7 @@
 package basics
 
 import kotlinx.coroutines.*
+import utils.log
 
 fun main() {
     GlobalScope.launch { // launch new coroutine in background and continue
